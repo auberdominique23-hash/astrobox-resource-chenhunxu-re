@@ -1,0 +1,55 @@
+{
+  "downloads": {
+    "xmb10": {
+      "file_name": "downloads/chenhunxu.bin",
+      "sha256": "3508cc1ad8dd659d6030ba16cf8b561c87d0c10017f64f2440c2a098ac1d5334",
+      "version": "",
+      "versionCode": 65536
+    },
+    "xmb10nfc": {
+      "file_name": "downloads/chenhunxu.bin",
+      "sha256": "3508cc1ad8dd659d6030ba16cf8b561c87d0c10017f64f2440c2a098ac1d5334",
+      "version": "",
+      "versionCode": 65536
+    }
+  },
+  "ext": {},
+  "item": {
+    "author": [
+      {
+        "bindABAccount": true,
+        "name": "AuberDominique"
+      }
+    ],
+    "cover": "media/cover.webp",
+    "description": "# 一次购买多次更新\n\n此为预览版，完整版到爱发电购买下载。\n\n**表盘特点**\n- 极简息屏\n- 有序的组件排布\n- 9 种时间段背景自动更换\n- 独特日光配色\n",
+    "icon": "media/icon.webp",
+    "id": "979812121222",
+    "name": "晨昏序",
+    "preview": [
+      "media/preview-1.webp",
+      "media/preview-2.webp",
+      "media/preview-3.webp",
+      "media/preview-4.webp",
+      "media/preview-5.webp",
+      "media/preview-6.webp",
+      "media/preview-7.webp",
+      "media/preview-8.webp",
+      "media/preview-9.webp",
+      "media/preview-10.webp"
+    ],
+    "restype": "watchface"
+  },
+  "links": [
+    {
+      "icon": "coins",
+      "title": "购买链接",
+      "url": "https://afdian.com/item/e6e6fc06db1f11f19faa5254001e7c00"
+    },
+    {
+      "icon": "Link",
+      "title": "爱发电购买链接",
+      "url": "https://afdian.com/item/e6e6fc06db1f11f19faa5254001e7c00"
+    }
+  ]
+}
